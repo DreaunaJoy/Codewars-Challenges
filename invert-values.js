@@ -9,4 +9,6 @@ You can assume that all values are integers. Do not mutate the input array/list.
 
 //solution
 
-const invert = array => array.map(num => -num);
+function invert(array) {
+    return array.map(i => 0 - i);
+ }
