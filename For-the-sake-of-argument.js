@@ -22,4 +22,4 @@ function numbers () {
   
   function isNumber (arg) {
     return typeof arg === 'number';
-  }
+  }/
